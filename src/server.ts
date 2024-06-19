@@ -6,4 +6,4 @@ server.get('/', (req, res) => {
     return res.send("Primeiro servidor express")
 })
 
-server.listen(3000)
+server.listen(80)
